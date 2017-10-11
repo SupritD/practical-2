@@ -1,0 +1,9 @@
+college_info={'name':'md','city':'mumbai','area':'pare'}
+print (college_info)
+college_info["pin no"]="400024"
+print (college_info)
+del college_info["city"]
+print (college_info)
+
+
+
